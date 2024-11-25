@@ -1,8 +1,8 @@
-nombre-repositorio
+cerrar sesión
 
-# Nombre del repositorio
+# Cerrar sesión
 
-> línea de bala
+> Blog el contenido más rico, con el menor esfuerzo.
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
@@ -10,7 +10,7 @@ nombre-repositorio
 
 **Resumen ejecutivo**
 
-Texto
+The missing blogging platform for hackers.
 
 ## 100 - Introducción
 
@@ -24,6 +24,6 @@ Ver[README.md](./200/README.md)
 
 Ver[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - Conclusión
 
 Ver[README.md](./400/README.md)
