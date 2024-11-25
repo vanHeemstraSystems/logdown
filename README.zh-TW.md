@@ -1,20 +1,20 @@
-儲存庫名稱
+登入
 
-# 儲存庫名稱
+# 登入
 
-> 斯拉格萊恩
+> 以最少的努力寫出最豐富的內容。
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [文件](./DOCUMENTATION.md)
 
 **執行摘要**
 
-文字
+駭客缺失的部落格平台。
 
 ## 100 - 簡介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
