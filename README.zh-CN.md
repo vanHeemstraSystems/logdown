@@ -2,7 +2,7 @@
 
 # 登录
 
-> 以最少的努力写出最丰富的内容。
+> Blog the richest content, with the least effort.
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
@@ -12,7 +12,7 @@
 
 黑客缺失的博客平台。
 
-## 100 - 简介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
