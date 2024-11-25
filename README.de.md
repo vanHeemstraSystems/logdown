@@ -8,7 +8,7 @@ Repository-Name
 -   [Referenzen](./REFERENCES.md)
 -   [Dokumentation](./DOCUMENTATION.md)
 
-**Zusammenfassung**
+**Executive Summary**
 
 Text
 
@@ -26,4 +26,4 @@ Sehen[README.md](./300/README.md)
 
 ## 400 – Fazit
 
-See [README.md](./400/README.md)
+Sehen[README.md](./400/README.md)
