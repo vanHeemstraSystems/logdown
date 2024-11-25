@@ -1,16 +1,16 @@
-Repository-Name
+Abmelden
 
-# Repository-Name
+# Abmelden
 
-> Slugline
+> Bloggen Sie den reichhaltigsten Inhalt mit dem geringsten Aufwand.
 
 -   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Dokumentation](./DOCUMENTATION.md)
 
-**Executive Summary**
+**Zusammenfassung**
 
-Text
+Die fehlende Blogging-Plattform für Hacker.
 
 ## 100 - Einführung
 
