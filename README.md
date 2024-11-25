@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+logdown
+# Logdown
 
-> Slugline
+> Blog the richest content, with the least effort.
 
 - [Glossary](./GLOSSARY.md)
 - [References](./REFERENCES.md)
@@ -9,7 +9,7 @@ repository-name
 
 **Executive Summary**
 
-Text
+The missing blogging platform for hackers.
 
 ## 100 - Introduction
 
