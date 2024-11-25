@@ -1,16 +1,16 @@
-repositorynaam
+afmelden
 
-# Naam van opslagplaats
+# Afmelden
 
-> Slaklijn
+> Blog de rijkste inhoud, met de minste moeite.
 
--   [Glossary](./GLOSSARY.md)
+-   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
 -   [Documentatie](./DOCUMENTATION.md)
 
 **Samenvatting**
 
-Tekst
+Het ontbrekende blogplatform voor hackers.
 
 ## 100 - Inleiding
 
@@ -24,6 +24,6 @@ Zien[README.md](./200/README.md)
 
 Zien[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - Conclusie
 
 Zien[README.md](./400/README.md)
